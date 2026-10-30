@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "OneWorld",
-  description: "Seven Networks. One Connected Ecosystem.",
+  title: "OneWorld Platform",
+  description: "OneWorld Platform",
 };
 
 export default function RootLayout({
